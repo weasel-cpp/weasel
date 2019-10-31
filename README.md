@@ -30,3 +30,6 @@ make main
 The built executables will be `build\test\test_main` and `build\src\main` respectively.
 
 If you make changes to the code you only need to rerun the according make command. Rerun the `cmake ..` command only if you have made changes to a `CMakeLists.txt` file.
+
+## License 
+![GNU GENERAL PUBLIC LICENSE](https://www.gnu.org/graphics/gplv3-127x51.png)
